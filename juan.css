@@ -1,0 +1,13 @@
+.david{
+    font-size: 300px;
+}
+.juwanbutt{
+    height: 500px;
+    width: 500px;
+    font-size: 200px;
+}
+.gambarcarousel{
+    height: 750px;
+    object-fit: cover;
+    width: 100%;
+}
